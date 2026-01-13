@@ -1,72 +1,68 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Ol%C3%A1%2C%20Eu%20Sou-Jo%C3%A3o%20Hugo!-blue?style=for-the-badge" alt="Olá, Eu Sou João Hugo!">
+  <a href="#portugues">
+    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/br.gif" width="50" alt="Português">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#english">
+    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/us.gif" width="50" alt="English">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#espanol">
+    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/es.gif" width="50" alt="Español">
+  </a>
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/perfil.gif" alt="GIF de boas-vindas" width="300px"/>
-</h1>
-
 <p align="center">
-  De <b>Líder de Operações</b> a <b>Desenvolvedor em Formação</b>. 🚀<br>
-  Minha jornada combina mais de 10 anos de experiência em gestão no <b>Outback Steakhouse</b> e <b>McDonald's</b> com a paixão por criar soluções tecnológicas impactantes. Atualmente no 2º semestre de ADS, busco unir disciplina, liderança e código para construir o futuro.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaohugorodrigues" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:jhugo085@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://joaohugorodrigues.github.io/Curriculo-tech-/" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20Curr%C3%ADculo-online-blue?style=for-the-badge&logo=github&logoColor=white" alt="Currículo Online">
-  </a>
+  <b>Escolha seu idioma | Choose your language | Elige tu idioma</b>
 </p>
 
 ---
 
-<h2 align="center">✨ Minhas Habilidades & Ferramentas ✨</h2>
+<div id="portugues">
+<details open>
+  <summary><b>🇧🇷 PORTUGUÊS (Clique para expandir)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Olá%2C%20Eu%20Sou-João%20Hugo!-blue?style=for-the-badge" alt="Olá">
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Metodologias%20%C3%81geis-0C7DBC?style=for-the-badge&logo=jira&logoColor=white" alt="Metodologias Ágeis">
-</p>
+  <p align="center">
+    <b>De Gestor de Operações a Desenvolvedor Full Stack</b> 🚀<br>
+    Unindo 10 anos de liderança em multinacionais (Outback/McDonald's) com a paixão por tecnologia.
+  </p>
 
-<h2 align="center">📚 Estou Estudando & Me Aprofundando 📚</h2>
+  ### 🚀 Sobre Mim
+  Estudante de **Análise e Desenvolvimento de Sistemas (2º Semestre)**. Após uma carreira de sucesso gerindo equipes de alta performance, decidi aplicar minha disciplina e visão estratégica no desenvolvimento de softwares eficientes e modernos.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+  ### 🛠️ Minhas Techs
+  - **Frontend:** HTML5, CSS3, Tailwind CSS, Design Responsivo.
+  - **Lógica:** JavaScript (ES6+), Manipulação de DOM.
+  - **Versionamento:** Git & GitHub.
 
----
+  ### 🕹️ Game Center (Lab de Lógica)
+  Projetos criados com JS puro para dominar conceitos fundamentais:
+  - 🐍 **Pixel Snake:** Manipulação de Arrays e Grids.
+  - 🏓 **Pixel Pong:** Física de colisão e IA simples.
+  - 🚀 **Pixel Invaders:** Vetores de objetos e gerenciamento de projéteis.
 
-<h2 align="center">📊 Meus Projetos em Destaque 📊</h2>
+  ### 📬 Contato
+  [LinkedIn](https://www.linkedin.com/in/joaohugorodrigues) | [Email](mailto:jhugo085@gmail.com)
+</details>
+</div>
 
-<p align="center">
-  <a href="https://joaohugorodrigues.github.io/Ambar-Brasa-Steakhouse/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaohugorodrigues&repo=Ambar-Brasa-Steakhouse&theme=dark" alt="Âmbar & Brasa - Steakhouse">
-  </a>
-  <a href="https://joaohugorodrigues.github.io/ONG-CONECTA-/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaohugorodrigues&repo=ONG-CONECTA-&theme=dark" alt="ONG Conecta">
-  </a>
-</p>
+<div id="english">
+<details>
+  <summary><b>🇺🇸 ENGLISH (Click to expand)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Hi%2C%20I'm-João%20Hugo!-0077B5?style=for-the-badge" alt="Hi">
+  </p>
 
----
+  <h2 align="center">Systems Analysis & Development Student</h2>
+  <p align="center"><i>"Leveraging 10 years of leadership into clean and efficient code."</i></p>
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
+  ### 🚀 Career Pivot
+  Transitioning from high-performance operations management at **Outback Steakhouse** and **McDonald's** to Software Development. I combine a strong business mindset with a passion for coding.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaohugorodrigues&theme=dark" alt="Sequência de Commits">
-</p>
-
----
+  ### 🛠️ Tech Stack
+  - **Frontend:** HTML5, CSS3, Tailwind
