@@ -13,56 +13,91 @@
 </p>
 
 <p align="center">
-  <b>Escolha seu idioma | Choose your language | Elige tu idioma</b>
+  <b>Clique na bandeira para ver as habilidades | Click the flag to see skills</b>
 </p>
 
 ---
 
 <div id="portugues">
 <details open>
-  <summary><b>🇧🇷 PORTUGUÊS (Clique para expandir)</b></summary>
+  <summary><b>🇧🇷 PORTUGUÊS (Habilidades e Perfil)</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Olá%2C%20Eu%20Sou-João%20Hugo!-blue?style=for-the-badge" alt="Olá">
+    <img src="https://img.shields.io/badge/João%20Hugo-Desenvolvedor%20em%20Formação-blue?style=for-the-badge" alt="João Hugo">
   </p>
 
-  <p align="center">
-    <b>De Gestor de Operações a Desenvolvedor Full Stack</b> 🚀<br>
-    Unindo 10 anos de liderança em multinacionais (Outback/McDonald's) com a paixão por tecnologia.
-  </p>
+  ### 🚀 Trajetória Profissional
+  Profissional com **10 anos de experiência em gestão de operações** (Outback/McDonald's), agora transicionando para a tecnologia através do curso de **ADS**. Foco em resolver problemas complexos com lógica e eficiência.
 
-  ### 🚀 Sobre Mim
-  Estudante de **Análise e Desenvolvimento de Sistemas (2º Semestre)**. Após uma carreira de sucesso gerindo equipes de alta performance, decidi aplicar minha disciplina e visão estratégica no desenvolvimento de softwares eficientes e modernos.
+  ### 🛠️ Hard Skills (Habilidades Técnicas)
+  <div align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
 
-  ### 🛠️ Minhas Techs
-  - **Frontend:** HTML5, CSS3, Tailwind CSS, Design Responsivo.
-  - **Lógica:** JavaScript (ES6+), Manipulação de DOM.
-  - **Versionamento:** Git & GitHub.
+  ### 🤝 Soft Skills (Comportamentais)
+  - 🧠 **Inteligência Emocional** (Gestão de pessoas em alta pressão).
+  - 🗣️ **Comunicação Assertiva** (Clareza técnica e estratégica).
+  - 📈 **Gestão de KPIs** (Foco em resultados e métricas).
+  - 🛡️ **Liderança Estratégica** (Experiência sólida em multinacionais).
 
-  ### 🕹️ Game Center (Lab de Lógica)
-  Projetos criados com JS puro para dominar conceitos fundamentais:
-  - 🐍 **Pixel Snake:** Manipulação de Arrays e Grids.
-  - 🏓 **Pixel Pong:** Física de colisão e IA simples.
-  - 🚀 **Pixel Invaders:** Vetores de objetos e gerenciamento de projéteis.
-
-  ### 📬 Contato
-  [LinkedIn](https://www.linkedin.com/in/joaohugorodrigues) | [Email](mailto:jhugo085@gmail.com)
 </details>
 </div>
 
 <div id="english">
 <details>
-  <summary><b>🇺🇸 ENGLISH (Click to expand)</b></summary>
+  <summary><b>🇺🇸 ENGLISH (Skills and Profile)</b></summary>
   <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Hi%2C%20I'm-João%20Hugo!-0077B5?style=for-the-badge" alt="Hi">
-  </p>
+  
+  ### 🚀 Professional Journey
+  **10 years of experience in Operations Management**, now pivoting to Technology. Systems Analysis and Development student focused on logical solutions and performance.
 
-  <h2 align="center">Systems Analysis & Development Student</h2>
-  <p align="center"><i>"Leveraging 10 years of leadership into clean and efficient code."</i></p>
+  ### 🛠️ Hard Skills
+  <div align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
 
-  ### 🚀 Career Pivot
-  Transitioning from high-performance operations management at **Outback Steakhouse** and **McDonald's** to Software Development. I combine a strong business mindset with a passion for coding.
+  ### 🤝 Soft Skills
+  - 🧠 **Emotional Intelligence** (Managing teams under high pressure).
+  - 🗣️ **Assertive Communication** (Bridging tech and business).
+  - 📈 **Strategic Leadership** (Proven track record in global brands).
 
-  ### 🛠️ Tech Stack
-  - **Frontend:** HTML5, CSS3, Tailwind
+</details>
+</div>
+
+<div id="espanol">
+<details>
+  <summary><b>🇪🇸 ESPAÑOL (Habilidades y Perfil)</b></summary>
+  <br>
+
+  ### 🚀 Perfil Profesional
+  Líder de operaciones con 10 años de experiencia, realizando la transición de carrera hacia el desarrollo de software.
+
+  ### 🛠️ Habilidades Técnicas
+  `HTML5` `CSS3` `JavaScript` `Tailwind` `Git`
+
+  ### 🤝 Habilidades Blandas (Soft Skills)
+  - 🧠 **Liderazgo Estratégico**
+  - 🗣️ **Comunicación Eficaz**
+  - 🛡️ **Resolución de Problemas**
+
+</details>
+</div>
+
+---
+
+### 📊 Estatísticas em Tempo Real
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=dark" alt="Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaohugorodrigues&theme=dark" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudando%20ADS-green?style=flat-square" />
+</p>
