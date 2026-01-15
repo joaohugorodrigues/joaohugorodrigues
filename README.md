@@ -72,41 +72,49 @@
   - **Result-Oriented:** Data-driven mindset focused on efficiency metrics.
 
   ### 🕹️ Logic Lab (JavaScript Games)
-  Interactive projects built with pure JS to master core programming concepts:
   - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Array manipulation and grid logic.
   - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Physics and collision logic.
-  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Object pooling and projectiles.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Object pooling and projectiles management.
 
 </details>
 </div>
 
 <div id="espanol">
 <details>
-  <summary><b>🇪🇸 ESPAÑOL (Perfil y Habilidades)</b></summary>
+  <summary><b>🇪🇸 ESPAÑOL (Sobre Mí & Habilidades)</b></summary>
   <br>
 
   ### ⚡ Resumen Profesional
-  Líder de operaciones con más de **10 años de experiencia** en multinacionales, ahora realizando la transición de carrera hacia el desarrollo de software.
+  Soy un profesional con más de **10 años de sólida experiencia en gestión de operaciones** y liderazgo de equipos de alto rendimiento en multinacionales como **Outback Steakhouse** y **McDonald's**.
 
-  ### 🛠️ Competencias Técnicas
-  - Desarrollo Frontend (HTML, CSS, JS, Tailwind) y Gestión de equipos de alto rendimiento.
+  Actualmente, curso el 2º semestre de **Análisis y Desarrollo de Sistemas**, combinando mi madurez en gestión empresarial con el desarrollo de soluciones tecnológicas modernas.
 
-  ### 🕹️ Centro de Juegos
-  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html)
-  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html)
-  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html)
+  ### 🛠️ Hard Skills (Tecnologías)
+  - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
+  - **Herramientas:** Git, GitHub, VS Code, Gestión de KPIs Técnicos.
+  - **Dominio:** Creación de interfaces responsivas y lógica de programación para juegos.
+
+  ### 🤝 Soft Skills (Diferenciales de Gestión)
+  - **Liderazgo Estratégico:** Gestión de grandes equipos bajo alta presión.
+  - **Inteligencia Emocional:** Resolución de conflictos y negociación.
+  - **Enfoque en Resultados:** Mentalidad orientada a datos y métricas de eficiencia.
+
+  ### 🕹️ Lab de Juegos (Lógica JavaScript)
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de arreglos y coordenadas.
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física de colisión.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestión de proyectiles y hordas.
 
 </details>
 </div>
 
 ---
 
-### 🏆 GitHub Achievements / Conquistas
+### 🏆 Conquistas no GitHub
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaohugorodrigues&theme=onedark&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
-### 📊 Statistics / Estatísticas
+### 📊 Estatísticas Detalhadas
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohugorodrigues&layout=compact&theme=tokyonight" />
@@ -114,7 +122,7 @@
 
 ---
 
-### 📬 Let's Connect / Vamos Conversar
+### 📬 Vamos Conversar? / Let's Connect / Hablemos
 <p align="center">
   <a href="https://www.linkedin.com/in/joaohugorodrigues" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
