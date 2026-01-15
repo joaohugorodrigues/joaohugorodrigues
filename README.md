@@ -17,25 +17,25 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor em Transição | Gestor de Operações | Analista de Sistemas</b> 🌌
+  <b>Operations Leader | Systems Analysis & Development Student | Tech Enthusiast</b> 🌌
 </p>
 
 ---
 
 <div id="portugues">
 <details open>
-  <summary><b>🇧🇷 SOBRE MIM E CARREIRA (Clique para expandir)</b></summary>
+  <summary><b>🇧🇷 PORTUGUÊS (Sobre Mim & Habilidades)</b></summary>
   <br>
 
   ### ⚡ Resumo Profissional
   Sou um profissional com mais de **10 anos de experiência sólida em gestão de operações** e liderança de equipes de alta performance em multinacionais como **Outback Steakhouse** e **McDonald's**. 
 
-  Atualmente, estou no 2º semestre de **Análise e Desenvolvimento de Sistemas**, unindo minha maturidade na gestão de negócios com a paixão por criar soluções tecnológicas escaláveis e eficientes.
+  Atualmente, curso o 2º semestre de **Análise e Desenvolvimento de Sistemas**, unindo minha maturidade na gestão de negócios com o desenvolvimento de soluções tecnológicas modernas.
 
   ### 🛠️ Hard Skills (Tecnologias)
   - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
   - **Ferramentas:** Git, GitHub, VS Code, Gestão de KPIs Técnicos.
-  - **Projetos:** Desenvolvimento de Interfaces Responsivas e Lógica de Jogos.
+  - **Domínio:** Criação de interfaces responsivas e lógica de programação para jogos.
 
   ### 🤝 Soft Skills (Diferenciais de Gestão)
   - **Liderança Estratégica:** Gestão de grandes equipes sob alta pressão.
@@ -44,55 +44,69 @@
 
   ### 🕹️ Lab de Jogos (Lógica JavaScript)
   Explore meus projetos interativos criados com JS puro:
-  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de coordenadas e manipulação de arrays.
-  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física de colisão e estados de jogo.
-  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestão de objetos, projéteis e hordas.
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de arrays e coordenadas.
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física de colisão.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestão de projéteis e hordas.
 
 </details>
 </div>
 
 <div id="english">
 <details>
-  <summary><b>🇺🇸 PROFESSIONAL PROFILE & SKILLS</b></summary>
+  <summary><b>🇺🇸 ENGLISH (About Me & Skills)</b></summary>
   <br>
 
-  ### 🚀 Career Pivot
-  Transitioning from **10 years of Operations Management** at global brands to **Software Development**. Systems Analysis and Development student focused on building high-quality frontend experiences.
+  ### ⚡ Professional Summary
+  I am a professional with over **10 years of solid experience in operations management** and high-performance team leadership at multinationals such as **Outback Steakhouse** and **McDonald's**.
 
-  ### 🛠️ Tech Stack
-  - **Languages:** JavaScript (ES6+), HTML5, CSS3.
-  - **Frameworks/Styles:** Tailwind CSS, Responsive Web Design.
-  - **Version Control:** Git, GitHub.
+  Currently, I am in my 2nd semester of **Systems Analysis and Development**, merging my business management maturity with the development of modern technological solutions.
 
-  ### 🧠 Leadership & Soft Skills
-  - **High-Stakes Management:** Leading diverse teams in fast-paced environments.
-  - **Analytical Thinking:** Transforming complex business requirements into clean code.
+  ### 🛠️ Hard Skills (Tech Stack)
+  - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
+  - **Tools:** Git, GitHub, VS Code, Technical KPI Management.
+  - **Focus:** Building responsive interfaces and core programming logic for games.
+
+  ### 🤝 Soft Skills (Leadership Background)
+  - **Strategic Leadership:** Managing large teams under high-pressure environments.
+  - **Emotional Intelligence:** Conflict resolution and strategic negotiation.
+  - **Result-Oriented:** Data-driven mindset focused on efficiency metrics.
+
+  ### 🕹️ Logic Lab (JavaScript Games)
+  Interactive projects built with pure JS to master core programming concepts:
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Array manipulation and grid logic.
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Physics and collision logic.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Object pooling and projectiles.
 
 </details>
 </div>
 
 <div id="espanol">
 <details>
-  <summary><b>🇪🇸 PERFIL Y HABILIDADES</b></summary>
+  <summary><b>🇪🇸 ESPAÑOL (Perfil y Habilidades)</b></summary>
   <br>
 
-  ### 🌎 Mi Trayectoria
-  Más de 10 años de experiencia liderando equipos en multinacionales, ahora enfocado en la transición hacia el desarrollo de software y sistemas de información.
+  ### ⚡ Resumen Profesional
+  Líder de operaciones con más de **10 años de experiencia** en multinacionales, ahora realizando la transición de carrera hacia el desarrollo de software.
 
-  ### 🛠️ Competencias
-  - Desarrollo Frontend, Lógica de Programación y Gestión de Operaciones Estratégicas.
+  ### 🛠️ Competencias Técnicas
+  - Desarrollo Frontend (HTML, CSS, JS, Tailwind) y Gestión de equipos de alto rendimiento.
+
+  ### 🕹️ Centro de Juegos
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html)
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html)
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html)
 
 </details>
 </div>
 
 ---
 
-### 🏆 Conquistas no GitHub
+### 🏆 GitHub Achievements / Conquistas
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaohugorodrigues&theme=onedark&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
-### 📊 Estatísticas Detalhadas
+### 📊 Statistics / Estatísticas
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohugorodrigues&layout=compact&theme=tokyonight" />
@@ -100,7 +114,7 @@
 
 ---
 
-### 📬 Vamos Conversar?
+### 📬 Let's Connect / Vamos Conversar
 <p align="center">
   <a href="https://www.linkedin.com/in/joaohugorodrigues" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
