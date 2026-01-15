@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=João%20Hugo%20&fontSize=90&animation=fadeIn&fontColor=58a6ff" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=João%20Hugo%20Rodrigues&fontSize=70&animation=fadeIn&fontColor=58a6ff" />
 </p>
 
 <p align="center">
@@ -24,63 +24,68 @@
 
 <div id="portugues">
 <details open>
-  <summary><b>🇧🇷 SOBRE MIM & HABILIDADES</b></summary>
+  <summary><b>🇧🇷 SOBRE MIM, SKILLS & JOGOS (Clique para expandir)</b></summary>
   <br>
 
   ### ⚡ Um pouco sobre mim
   - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre).
-  - 🍔 Ex-Gestor de Operações no **Outback** e **McDonald's** (10 anos de liderança).
-  - 💻 Focado em construir interfaces modernas e lógica de jogo com **JavaScript**.
-  - 🐍 Criador do **Game Center Pixel** (Snake, Pong e Invaders).
+  - 🍔 **10 anos de liderança** em multinacionais (**Outback / McDonald's**).
+  - 💻 Focado em construir interfaces modernas e lógica de sistemas.
 
-  ### 🛠️ Hard Skills (Tech Stack)
+  ### 🛠️ Hard Skills (Tecnologias)
   <p align="left">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
-  ### 🤝 Soft Skills (O que trago da Gestão)
-  - **Liderança sob Pressão:** Experiência real em multinacionais de alto volume.
-  - **Foco em Métricas (KPIs):** Código orientado a resultados e performance.
-  - **Resolução de Problemas:** Mentalidade de gestor aplicada ao Debugging.
+  ### 🤝 Soft Skills (Diferenciais de Gestão)
+  - **Liderança Estratégica:** Gestão de equipas de alta performance.
+  - **Resolução de Conflitos:** Inteligência emocional em ambientes de pressão.
+  - **Foco em Resultados:** Pensamento orientado a KPIs e metas.
+
+  ### 🕹️ Game Center (Meus Laboratórios de Lógica)
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de Arrays.
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física e Colisão.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Vetores e Projéteis.
 
 </details>
 </div>
 
 <div id="english">
 <details>
-  <summary><b>🇺🇸 ABOUT ME & SKILLS</b></summary>
+  <summary><b>🇺🇸 ABOUT ME, SKILLS & GAMES</b></summary>
   <br>
 
-  - 🚀 **10 years of experience** leading high-performance teams.
-  - 🛠️ Currently mastering **Frontend Architecture** and **JavaScript Logic**.
-  - 🕹️ Check out my **Logic Lab** with classic games built from scratch.
+  - 🚀 **Transitioning 10 years of experience** in Operations Management to Software Development.
+  - 🛠️ **Skills:** JavaScript, Tailwind CSS, Git, Strategic Leadership.
+  - 🕹️ **Games:** [Snake](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) | [Pong](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) | [Invaders](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html)
 
 </details>
 </div>
 
 ---
 
-### 🏆 Minhas Conquistas no GitHub
+### 🏆 Conquistas e Atividade
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaohugorodrigues&theme=onedark&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
-### 📊 Estatísticas e Atividade
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohugorodrigues&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
-
 ---
+
+### 📬 Conecte-se Comigo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaohugorodrigues/joaohugorodrigues/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://www.linkedin.com/in/joaohugorodrigues" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jhugo085@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
