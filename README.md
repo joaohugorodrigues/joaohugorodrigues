@@ -1,103 +1,86 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=João%20Hugo%20&fontSize=90&animation=fadeIn&fontColor=58a6ff" />
+</p>
+
+<p align="center">
   <a href="#portugues">
-    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/br.gif" width="50" alt="Português">
+    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/br.gif" width="45" alt="Português">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="#english">
-    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/us.gif" width="50" alt="English">
+    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/us.gif" width="45" alt="English">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="#espanol">
-    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/es.gif" width="50" alt="Español">
+    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/es.gif" width="45" alt="Español">
   </a>
 </p>
 
 <p align="center">
-  <b>Clique na bandeira para ver as habilidades | Click the flag to see skills</b>
+  <b>Pivoting 10 Years of Leadership into the Tech Universe</b> 🌌
 </p>
 
 ---
 
 <div id="portugues">
 <details open>
-  <summary><b>🇧🇷 PORTUGUÊS (Habilidades e Perfil)</b></summary>
+  <summary><b>🇧🇷 SOBRE MIM & HABILIDADES</b></summary>
   <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/João%20Hugo-Desenvolvedor%20em%20Formação-blue?style=for-the-badge" alt="João Hugo">
+
+  ### ⚡ Um pouco sobre mim
+  - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre).
+  - 🍔 Ex-Gestor de Operações no **Outback** e **McDonald's** (10 anos de liderança).
+  - 💻 Focado em construir interfaces modernas e lógica de jogo com **JavaScript**.
+  - 🐍 Criador do **Game Center Pixel** (Snake, Pong e Invaders).
+
+  ### 🛠️ Hard Skills (Tech Stack)
+  <p align="left">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
-  ### 🚀 Trajetória Profissional
-  Profissional com **10 anos de experiência em gestão de operações** (Outback/McDonald's), agora transicionando para a tecnologia através do curso de **ADS**. Foco em resolver problemas complexos com lógica e eficiência.
-
-  ### 🛠️ Hard Skills (Habilidades Técnicas)
-  <div align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </div>
-
-  ### 🤝 Soft Skills (Comportamentais)
-  - 🧠 **Inteligência Emocional** (Gestão de pessoas em alta pressão).
-  - 🗣️ **Comunicação Assertiva** (Clareza técnica e estratégica).
-  - 📈 **Gestão de KPIs** (Foco em resultados e métricas).
-  - 🛡️ **Liderança Estratégica** (Experiência sólida em multinacionais).
+  ### 🤝 Soft Skills (O que trago da Gestão)
+  - **Liderança sob Pressão:** Experiência real em multinacionais de alto volume.
+  - **Foco em Métricas (KPIs):** Código orientado a resultados e performance.
+  - **Resolução de Problemas:** Mentalidade de gestor aplicada ao Debugging.
 
 </details>
 </div>
 
 <div id="english">
 <details>
-  <summary><b>🇺🇸 ENGLISH (Skills and Profile)</b></summary>
-  <br>
-  
-  ### 🚀 Professional Journey
-  **10 years of experience in Operations Management**, now pivoting to Technology. Systems Analysis and Development student focused on logical solutions and performance.
-
-  ### 🛠️ Hard Skills
-  <div align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </div>
-
-  ### 🤝 Soft Skills
-  - 🧠 **Emotional Intelligence** (Managing teams under high pressure).
-  - 🗣️ **Assertive Communication** (Bridging tech and business).
-  - 📈 **Strategic Leadership** (Proven track record in global brands).
-
-</details>
-</div>
-
-<div id="espanol">
-<details>
-  <summary><b>🇪🇸 ESPAÑOL (Habilidades y Perfil)</b></summary>
+  <summary><b>🇺🇸 ABOUT ME & SKILLS</b></summary>
   <br>
 
-  ### 🚀 Perfil Profesional
-  Líder de operaciones con 10 años de experiencia, realizando la transición de carrera hacia el desarrollo de software.
-
-  ### 🛠️ Habilidades Técnicas
-  `HTML5` `CSS3` `JavaScript` `Tailwind` `Git`
-
-  ### 🤝 Habilidades Blandas (Soft Skills)
-  - 🧠 **Liderazgo Estratégico**
-  - 🗣️ **Comunicación Eficaz**
-  - 🛡️ **Resolución de Problemas**
+  - 🚀 **10 years of experience** leading high-performance teams.
+  - 🛠️ Currently mastering **Frontend Architecture** and **JavaScript Logic**.
+  - 🕹️ Check out my **Logic Lab** with classic games built from scratch.
 
 </details>
 </div>
 
 ---
 
-### 📊 Estatísticas em Tempo Real
+### 🏆 Minhas Conquistas no GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=dark" alt="Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaohugorodrigues&theme=dark" alt="Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joaohugorodrigues&theme=onedark&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+### 📊 Estatísticas e Atividade
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohugorodrigues&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Estudando%20ADS-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaohugorodrigues/joaohugorodrigues/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
