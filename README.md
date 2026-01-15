@@ -1,77 +1,98 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=João%20Hugo%20Rodrigues&fontSize=70&animation=fadeIn&fontColor=58a6ff" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=220&section=header&text=João%20Hugo%20Rodrigues&fontSize=70&animation=fadeIn&fontColor=58a6ff" />
 </p>
 
 <p align="center">
   <a href="#portugues">
-    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/br.gif" width="45" alt="Português">
+    <img src="https://img.shields.io/badge/IDIOMA-PORTUGUÊS-green?style=for-the-badge" alt="Português">
   </a>
   &nbsp;&nbsp;
   <a href="#english">
-    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/us.gif" width="45" alt="English">
+    <img src="https://img.shields.io/badge/LANGUAGE-ENGLISH-blue?style=for-the-badge" alt="English">
   </a>
   &nbsp;&nbsp;
   <a href="#espanol">
-    <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-gifs/master/flags-animated-gifs/es.gif" width="45" alt="Español">
+    <img src="https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=for-the-badge" alt="Español">
   </a>
 </p>
 
 <p align="center">
-  <b>Pivoting 10 Years of Leadership into the Tech Universe</b> 🌌
+  <b>Desenvolvedor em Transição | Gestor de Operações | Analista de Sistemas</b> 🌌
 </p>
 
 ---
 
 <div id="portugues">
 <details open>
-  <summary><b>🇧🇷 SOBRE MIM, SKILLS & JOGOS (Clique para expandir)</b></summary>
+  <summary><b>🇧🇷 SOBRE MIM E CARREIRA (Clique para expandir)</b></summary>
   <br>
 
-  ### ⚡ Um pouco sobre mim
-  - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre).
-  - 🍔 **10 anos de liderança** em multinacionais (**Outback / McDonald's**).
-  - 💻 Focado em construir interfaces modernas e lógica de sistemas.
+  ### ⚡ Resumo Profissional
+  Sou um profissional com mais de **10 anos de experiência sólida em gestão de operações** e liderança de equipes de alta performance em multinacionais como **Outback Steakhouse** e **McDonald's**. 
+
+  Atualmente, estou no 2º semestre de **Análise e Desenvolvimento de Sistemas**, unindo minha maturidade na gestão de negócios com a paixão por criar soluções tecnológicas escaláveis e eficientes.
 
   ### 🛠️ Hard Skills (Tecnologias)
-  <p align="left">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+  - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
+  - **Ferramentas:** Git, GitHub, VS Code, Gestão de KPIs Técnicos.
+  - **Projetos:** Desenvolvimento de Interfaces Responsivas e Lógica de Jogos.
 
   ### 🤝 Soft Skills (Diferenciais de Gestão)
-  - **Liderança Estratégica:** Gestão de equipas de alta performance.
-  - **Resolução de Conflitos:** Inteligência emocional em ambientes de pressão.
-  - **Foco em Resultados:** Pensamento orientado a KPIs e metas.
+  - **Liderança Estratégica:** Gestão de grandes equipes sob alta pressão.
+  - **Inteligência Emocional:** Resolução de conflitos e negociação.
+  - **Foco em Resultados:** Pensamento orientado a dados e métricas de eficiência.
 
-  ### 🕹️ Game Center (Meus Laboratórios de Lógica)
-  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de Arrays.
-  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física e Colisão.
-  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Vetores e Projéteis.
+  ### 🕹️ Lab de Jogos (Lógica JavaScript)
+  Explore meus projetos interativos criados com JS puro:
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de coordenadas e manipulação de arrays.
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física de colisão e estados de jogo.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestão de objetos, projéteis e hordas.
 
 </details>
 </div>
 
 <div id="english">
 <details>
-  <summary><b>🇺🇸 ABOUT ME, SKILLS & GAMES</b></summary>
+  <summary><b>🇺🇸 PROFESSIONAL PROFILE & SKILLS</b></summary>
   <br>
 
-  - 🚀 **Transitioning 10 years of experience** in Operations Management to Software Development.
-  - 🛠️ **Skills:** JavaScript, Tailwind CSS, Git, Strategic Leadership.
-  - 🕹️ **Games:** [Snake](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) | [Pong](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) | [Invaders](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html)
+  ### 🚀 Career Pivot
+  Transitioning from **10 years of Operations Management** at global brands to **Software Development**. Systems Analysis and Development student focused on building high-quality frontend experiences.
+
+  ### 🛠️ Tech Stack
+  - **Languages:** JavaScript (ES6+), HTML5, CSS3.
+  - **Frameworks/Styles:** Tailwind CSS, Responsive Web Design.
+  - **Version Control:** Git, GitHub.
+
+  ### 🧠 Leadership & Soft Skills
+  - **High-Stakes Management:** Leading diverse teams in fast-paced environments.
+  - **Analytical Thinking:** Transforming complex business requirements into clean code.
+
+</details>
+</div>
+
+<div id="espanol">
+<details>
+  <summary><b>🇪🇸 PERFIL Y HABILIDADES</b></summary>
+  <br>
+
+  ### 🌎 Mi Trayectoria
+  Más de 10 años de experiencia liderando equipos en multinacionales, ahora enfocado en la transición hacia el desarrollo de software y sistemas de información.
+
+  ### 🛠️ Competencias
+  - Desarrollo Frontend, Lógica de Programación y Gestión de Operaciones Estratégicas.
 
 </details>
 </div>
 
 ---
 
-### 🏆 Conquistas e Atividade
+### 🏆 Conquistas no GitHub
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaohugorodrigues&theme=onedark&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
+### 📊 Estatísticas Detalhadas
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaohugorodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohugorodrigues&layout=compact&theme=tokyonight" />
@@ -79,7 +100,7 @@
 
 ---
 
-### 📬 Conecte-se Comigo
+### 📬 Vamos Conversar?
 <p align="center">
   <a href="https://www.linkedin.com/in/joaohugorodrigues" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -87,5 +108,9 @@
   &nbsp;&nbsp;
   <a href="mailto:jhugo085@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/5511986566850" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
