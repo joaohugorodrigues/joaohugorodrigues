@@ -2,109 +2,97 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=220&section=header&text=João%20Hugo%20Rodrigues&fontSize=70&animation=fadeIn&fontColor=58a6ff" />
 </p>
 
+<!-- BOTÕES DE SELEÇÃO DE IDIOMA -->
 <p align="center">
-  <a href="#portugues">
+  <a href="javascript:void(0)" onclick="switchLanguage('pt')">
     <img src="https://img.shields.io/badge/IDIOMA-PORTUGUÊS-green?style=for-the-badge" alt="Português">
   </a>
   &nbsp;&nbsp;
-  <a href="#english">
+  <a href="javascript:void(0)" onclick="switchLanguage('en')">
     <img src="https://img.shields.io/badge/LANGUAGE-ENGLISH-blue?style=for-the-badge" alt="English">
   </a>
   &nbsp;&nbsp;
-  <a href="#espanol">
+  <a href="javascript:void(0)" onclick="switchLanguage('es')">
     <img src="https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=for-the-badge" alt="Español">
   </a>
 </p>
 
 <p align="center">
-  <b>Operations Leader | Systems Analysis & Development Student | Tech Enthusiast</b> 🌌
+  <b>Desenvolvedor Frontend Junior | Suporte & Técnico de T.I. | Análise e Desenvolvimento de Sistemas</b> 🌌
 </p>
 
 ---
 
-<div id="portugues">
-<details open>
-  <summary><b>🇧🇷 PORTUGUÊS (Sobre Mim & Habilidades)</b></summary>
-  <br>
-
+<!-- CONTEÚDO EM PORTUGUÊS -->
+<div id="lang-pt" class="lang-content">
   ### ⚡ Resumo Profissional
-  Sou um profissional com mais de **10 anos de experiência sólida em gestão de operações** e liderança de equipes de alta performance em multinacionais como **Outback Steakhouse** e **McDonald's**. 
+  Profissional focado em tecnologia e solução de problemas técnicos, aliando habilidades em **Desenvolvimento Frontend (HTML5, CSS3, JavaScript, Tailwind CSS)** com suporte técnico em **T.I. (hardware, redes, manutenção e infraestrutura)**. 
 
-  Atualmente, curso o 2º semestre de **Análise e Desenvolvimento de Sistemas**, unindo minha maturidade na gestão de negócios com o desenvolvimento de soluções tecnológicas modernas.
+  Possuo mais de **10 anos de experiência sólida em liderança e gestão operacional** em multinacionais (como **Outback Steakhouse** e **McDonald's**), o que me confere alta capacidade de gestão sob pressão, resolução ágil de incidentes e excelente comunicação com usuários final e equipes técnicas. Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
-  ### 🛠️ Hard Skills (Tecnologias)
-  - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
-  - **Ferramentas:** Git, GitHub, VS Code, Gestão de KPIs Técnicos.
-  - **Domínio:** Criação de interfaces responsivas e lógica de programação para jogos.
+  ### 🛠️ Hard Skills & Tecnologias
+  - **Desenvolvimento Web / Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Git & GitHub.
+  - **Suporte Técnico & T.I.:** Manutenção preventiva e corretiva de computadores, montagem e diagnóstico de hardware, configuração de redes locais (SOHO), instalação de sistemas operacionais e suporte ao usuário.
+  - **Sistemas & Projetos:** Desenvolvimento de interfaces responsivas, lógica de programação em JS e projetos web institucionais/comerciais (ex: *ONG Conecta*, *Ambar Brasa Steakhouse*).
 
-  ### 🤝 Soft Skills (Diferenciais de Gestão)
-  - **Liderança Estratégica:** Gestão de grandes equipes sob alta pressão.
-  - **Inteligência Emocional:** Resolução de conflitos e negociação.
-  - **Foco em Resultados:** Pensamento orientado a dados e métricas de eficiência.
+  ### 🤝 Soft Skills (Diferenciais Operacionais)
+  - **Liderança & Gestão de Pessoas:** Experiência em liderar equipes operacionais sob alta demanda.
+  - **Resolução de Problemas (Troubleshooting):** Diagnóstico rápido de falhas em código e equipamentos.
+  - **Atendimento e Suporte ao Cliente/Usuário:** Comunicação clara, empatia e foco em Service Desk / Help Desk.
+  - **Pensamento Crítico & Orientado a Resultados:** Gestão baseada em métricas de eficiência e melhoria contínua.
 
-  ### 🕹️ Lab de Jogos (Lógica JavaScript)
-  Explore meus projetos interativos criados com JS puro:
-  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de arrays e coordenadas.
-  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física de colisão.
-  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestão de projéteis e hordas.
-
-</details>
+  ### 🕹️ Lab de Projetos & Lógica (JavaScript)
+  Explore alguns dos meus projetos interativos e jogos desenvolvidos em JS puro:
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de matrizes, arrays e coordenadas.
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Colisões e física de movimento.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestão de vetores, projéteis e estado de jogo.
 </div>
 
-<div id="english">
-<details>
-  <summary><b>🇺🇸 ENGLISH (About Me & Skills)</b></summary>
-  <br>
-
+<!-- CONTEÚDO EM INGLÊS -->
+<div id="lang-en" class="lang-content" style="display: none;">
   ### ⚡ Professional Summary
-  I am a professional with over **10 years of solid experience in operations management** and high-performance team leadership at multinationals such as **Outback Steakhouse** and **McDonald's**.
+  Technology professional combining **Frontend Development (HTML5, CSS3, JavaScript, Tailwind CSS)** with **IT Technical Support (hardware, networking, and system maintenance)**.
 
-  Currently, I am in my 2nd semester of **Systems Analysis and Development**, merging my business management maturity with the development of modern technological solutions.
+  Leveraging over **10 years of solid operations management and leadership experience** in top multinational companies (such as **Outback Steakhouse** and **McDonald's**), bringing strong incident management skills, clear end-user communication, and high adaptability under pressure. Currently pursuing a degree in **Systems Analysis and Development**.
 
-  ### 🛠️ Hard Skills (Tech Stack)
-  - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
-  - **Tools:** Git, GitHub, VS Code, Technical KPI Management.
-  - **Focus:** Building responsive interfaces and core programming logic for games.
+  ### 🛠️ Hard Skills & Tech Stack
+  - **Web Development / Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Git & GitHub.
+  - **IT Support & Systems:** Hardware assembly & troubleshooting, PC maintenance, SOHO network configuration, OS installation, and Help Desk / Service Desk support.
+  - **Projects & Logic:** Responsive Web Design, pure JS programming logic, and web project engineering (*ONG Conecta*, *Ambar Brasa Steakhouse*).
 
-  ### 🤝 Soft Skills (Leadership Background)
-  - **Strategic Leadership:** Managing large teams under high-pressure environments.
-  - **Emotional Intelligence:** Conflict resolution and strategic negotiation.
-  - **Result-Oriented:** Data-driven mindset focused on efficiency metrics.
+  ### 🤝 Soft Skills
+  - **Leadership & Operations:** Proven experience leading large teams in high-demand environments.
+  - **Troubleshooting:** Quick problem definition and bug/hardware diagnostic capabilities.
+  - **Customer & User Support:** Clear technical communication and empathy for end-users.
+  - **Results-Driven:** Focused on continuous improvement and IT efficiency metrics.
 
-  ### 🕹️ Logic Lab (JavaScript Games)
-  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Array manipulation and grid logic.
-  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Physics and collision logic.
-  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Object pooling and projectiles management.
-
-</details>
+  ### 🕹️ Logic Lab (JavaScript Projects)
+  - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Array manipulation and grid coordinate logic.
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Collision physics and motion logic.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Projectile management and game loop states.
 </div>
 
-<div id="espanol">
-<details>
-  <summary><b>🇪🇸 ESPAÑOL (Sobre Mí & Habilidades)</b></summary>
-  <br>
-
+<!-- CONTEÚDO EM ESPANHOL -->
+<div id="lang-es" class="lang-content" style="display: none;">
   ### ⚡ Resumen Profesional
-  Soy un profesional con más de **10 años de sólida experiencia en gestión de operaciones** y liderazgo de equipos de alto rendimiento en multinacionales como **Outback Steakhouse** y **McDonald's**.
+  Profesional enfocado en tecnología, combinando habilidades en **Desarrollo Frontend (HTML5, CSS3, JavaScript, Tailwind CSS)** con soporte técnico de **T.I. (hardware, redes y mantenimiento de sistemas)**.
 
-  Actualmente, curso el 2º semestre de **Análisis y Desarrollo de Sistemas**, combinando mi madurez en gestión empresarial con el desarrollo de soluciones tecnológicas modernas.
+  Cuenta con más de **10 años de experiencia sólida en liderazgo y gestión operativa** en empresas multinacionales (**Outback Steakhouse**, **McDonald's**), aportando capacidad de resolución ágil de incidentes, comunicación efectiva y gestión bajo presión. Estudiante de **Análisis y Desarrollo de Sistemas**.
 
-  ### 🛠️ Hard Skills (Tecnologías)
-  - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
-  - **Herramientas:** Git, GitHub, VS Code, Gestión de KPIs Técnicos.
-  - **Dominio:** Creación de interfaces responsivas y lógica de programación para juegos.
+  ### 🛠️ Hard Skills (Tecnologías y T.I.)
+  - **Desarrollo Web / Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Git & GitHub.
+  - **Soporte Técnico de T.I.:** Mantenimiento preventivo/correctivo de hardware, configuración de redes locales, instalación de sistemas operativos y atención al usuario (Help Desk).
+  - **Proyectos:** Creación de interfaces responsivas y desarrollo de proyectos web (*ONG Conecta*, *Ambar Brasa Steakhouse*).
 
-  ### 🤝 Soft Skills (Diferenciales de Gestión)
-  - **Liderazgo Estratégico:** Gestión de grandes equipos bajo alta presión.
-  - **Inteligencia Emocional:** Resolución de conflictos y negociación.
-  - **Enfoque en Resultados:** Mentalidad orientada a datos y métricas de eficiencia.
+  ### 🤝 Soft Skills
+  - **Liderazgo Estratégico:** Gestión de equipos de alta demanda.
+  - **Troubleshooting (Resolución de Problemas):** Diagnóstico rápido de fallas en software y hardware.
+  - **Atención al Usuario:** Excelente comunicación y enfoque en Service Desk.
 
   ### 🕹️ Lab de Juegos (Lógica JavaScript)
   - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de arreglos y coordenadas.
-  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física de colisión.
-  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestión de proyectiles y hordas.
-
-</details>
+  - 🏓 [**Pixel Pong**](https://joaohugorodrigues.github.io/Curriculo-tech-/pong.html) - Física de colisión y movimiento.
+  - 🚀 [**Pixel Invaders**](https://joaohugorodrigues.github.io/Curriculo-tech-/space.html) - Gestión de proyectiles y estados de juego.
 </div>
 
 ---
@@ -136,3 +124,18 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+<!-- SCRIPT DE TROCA DE IDIOMA DINÂMICA -->
+<script>
+  function switchLanguage(lang) {
+    // Esconde todas as seções de idioma
+    const contents = document.querySelectorAll('.lang-content');
+    contents.forEach(el => el.style.display = 'none');
+    
+    // Exibe apenas o idioma selecionado
+    const selectedLang = document.getElementById('lang-' + lang);
+    if (selectedLang) {
+      selectedLang.style.display = 'block';
+    }
+  }
+</script>
