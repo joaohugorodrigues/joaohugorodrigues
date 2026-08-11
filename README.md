@@ -33,13 +33,19 @@
   ### 🛠️ Hard Skills & Tecnologias
   - **Desenvolvimento Web / Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Git & GitHub.
   - **Suporte Técnico & T.I.:** Manutenção preventiva e corretiva de computadores, montagem e diagnóstico de hardware, configuração de redes locais (SOHO), instalação de sistemas operacionais e suporte ao usuário.
-  - **Sistemas & Projetos:** Desenvolvimento de interfaces responsivas, lógica de programação em JS e projetos web institucionais/comerciais (ex: *ONG Conecta*, *Ambar Brasa Steakhouse*).
+  - **Sistemas & Projetos:** Desenvolvimento de interfaces responsivas, lógica de programação em JS e projetos web institucionais/comerciais.
 
   ### 🤝 Soft Skills (Diferenciais Operacionais)
   - **Liderança & Gestão de Pessoas:** Experiência em liderar equipes operacionais sob alta demanda.
   - **Resolução de Problemas (Troubleshooting):** Diagnóstico rápido de falhas em código e equipamentos.
   - **Atendimento e Suporte ao Cliente/Usuário:** Comunicação clara, empatia e foco em Service Desk / Help Desk.
   - **Pensamento Crítico & Orientado a Resultados:** Gestão baseada em métricas de eficiência e melhoria contínua.
+
+  ### 🚀 Projetos Web em Destaque
+  - 🩺 [**Modelo Fisioterapia & Saúde**](https://joaohugorodrigues.github.io/ProjetoModeloFisioterapia/) - Website institucional responsivo voltado para clínicas e serviços de saúde, com foco em experiência do usuário (UX/UI).
+  - 🥩 [**Ambar Brasa Steakhouse**](https://joaohugorodrigues.github.io/Ambar-Brasa-Steakhouse/) - Aplicação web responsiva desenvolvida para apresentação de cardápio e experiência gastronômica.
+  - 💈 [**Newstalyafro**](https://joaohugorodrigues.github.io/Newstalyafro/) - Projeto web focado em apresentação de serviços, marca e agendamentos visando soluções modernas de frontend.
+  - 🤝 **ONG Conecta** - Plataforma web institucional e comunitária voltada para conexão e engajamento social.
 
   ### 🕹️ Lab de Projetos & Lógica (JavaScript)
   Explore alguns dos meus projetos interativos e jogos desenvolvidos em JS puro:
@@ -58,13 +64,19 @@
   ### 🛠️ Hard Skills & Tech Stack
   - **Web Development / Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Git & GitHub.
   - **IT Support & Systems:** Hardware assembly & troubleshooting, PC maintenance, SOHO network configuration, OS installation, and Help Desk / Service Desk support.
-  - **Projects & Logic:** Responsive Web Design, pure JS programming logic, and web project engineering (*ONG Conecta*, *Ambar Brasa Steakhouse*).
+  - **Projects & Logic:** Responsive Web Design, pure JS programming logic, and web project engineering.
 
   ### 🤝 Soft Skills
   - **Leadership & Operations:** Proven experience leading large teams in high-demand environments.
   - **Troubleshooting:** Quick problem definition and bug/hardware diagnostic capabilities.
   - **Customer & User Support:** Clear technical communication and empathy for end-users.
   - **Results-Driven:** Focused on continuous improvement and IT efficiency metrics.
+
+  ### 🚀 Featured Web Projects
+  - 🩺 [**Physiotherapy & Health Model**](https://joaohugorodrigues.github.io/ProjetoModeloFisioterapia/) - Responsive institutional website for healthcare and physical therapy services, focusing on UX/UI and service presentation.
+  - 🥩 [**Ambar Brasa Steakhouse**](https://joaohugorodrigues.github.io/Ambar-Brasa-Steakhouse/) - Responsive web application designed for restaurant menu presentation and brand experience.
+  - 💈 [**Newstalyafro**](https://joaohugorodrigues.github.io/Newstalyafro/) - Web project designed to highlight services and branding with modern frontend layout techniques.
+  - 🤝 **ONG Conecta** - Community and institutional platform for social connection and engagement.
 
   ### 🕹️ Logic Lab (JavaScript Projects)
   - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Array manipulation and grid coordinate logic.
@@ -82,12 +94,18 @@
   ### 🛠️ Hard Skills (Tecnologías y T.I.)
   - **Desarrollo Web / Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Git & GitHub.
   - **Soporte Técnico de T.I.:** Mantenimiento preventivo/correctivo de hardware, configuración de redes locales, instalación de sistemas operativos y atención al usuario (Help Desk).
-  - **Proyectos:** Creación de interfaces responsivas y desarrollo de proyectos web (*ONG Conecta*, *Ambar Brasa Steakhouse*).
+  - **Proyectos:** Creación de interfaces responsivas y desarrollo de proyectos web.
 
   ### 🤝 Soft Skills
   - **Liderazgo Estratégico:** Gestión de equipos de alta demanda.
   - **Troubleshooting (Resolución de Problemas):** Diagnóstico rápido de fallas en software y hardware.
   - **Atención al Usuario:** Excelente comunicación y enfoque en Service Desk.
+
+  ### 🚀 Proyectos Web Destacados
+  - 🩺 [**Modelo Fisioterapia & Salud**](https://joaohugorodrigues.github.io/ProjetoModeloFisioterapia/) - Sitio web institucional responsivo para clínicas de salud, enfocado en UX/UI.
+  - 🥩 [**Ambar Brasa Steakhouse**](https://joaohugorodrigues.github.io/Ambar-Brasa-Steakhouse/) - Aplicación web responsiva para presentación de menú y marca gastronómica.
+  - 💈 [**Newstalyafro**](https://joaohugorodrigues.github.io/Newstalyafro/) - Proyecto web enfocado en la presentación de servicios y estética de marca frontend moderna.
+  - 🤝 **ONG Conecta** - Plataforma web comunitaria para la conexión y participación social.
 
   ### 🕹️ Lab de Juegos (Lógica JavaScript)
   - 🐍 [**Pixel Snake**](https://joaohugorodrigues.github.io/Curriculo-tech-/game.html) - Lógica de arreglos y coordenadas.
@@ -128,11 +146,9 @@
 <!-- SCRIPT DE TROCA DE IDIOMA DINÂMICA -->
 <script>
   function switchLanguage(lang) {
-    // Esconde todas as seções de idioma
     const contents = document.querySelectorAll('.lang-content');
     contents.forEach(el => el.style.display = 'none');
     
-    // Exibe apenas o idioma selecionado
     const selectedLang = document.getElementById('lang-' + lang);
     if (selectedLang) {
       selectedLang.style.display = 'block';
